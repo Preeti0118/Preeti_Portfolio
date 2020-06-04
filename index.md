@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+##Welcome to Preeti Sehgal's Portfolio
+---
+[Sentiment and Correlation Stock](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
+
+---
+[Datagrip Pokemon SQl Project](https://github.com/Preeti0118/DataGrip.PokemonSqlLab)
+
+---
+
+
 
 You can use the [editor on GitHub](https://github.com/Preeti0118/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Sentiment Correlation Stock](https://github.com/Preeti0118/Sentiment_Correlation_Stock) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
