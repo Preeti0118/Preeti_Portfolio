@@ -1,5 +1,4 @@
 ## Welcome to Preeti Sehgal's Portfolio
-wordcloud (1).jpg---
 
 [Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
  - Twitter API
