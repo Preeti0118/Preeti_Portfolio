@@ -3,7 +3,7 @@
 [Sentiment and Correlation Stock](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
 
 ---
-[Datagrip Pokemon SQl Project](https://github.com/Preeti0118/DataGrip.PokemonSqlLab)
+[Airflow Tennis data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
 
 ---
 
