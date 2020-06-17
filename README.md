@@ -1,26 +1,43 @@
-Preeti Sehgal's Portfolio
----
-[Sentiment and Correlation Stock Project](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
- - Airflow, Papermill, Spark, Jupyter Notebook
- - Twitter Api, News Api, Yfinance Api
+## Welcome to Preeti Sehgal's Portfolio
+
+[Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
+ - Twitter API
+ - yfinance API
+ - News API
+ - Spark
+ - Airflow
+ - Papermill
+ - Jupyter Notebook
  - Pandas
- - Bokeh
  - NLTK
+ - Bookeh
+ - MySql
+ 
 ---
-[Tennis Data Pipeline Airflow Project](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
- - Airflow, Papermill, Jupyter Notebook
+[Kafka Spark Twitter](https://github.com/Preeti0118/TwitterKafkaSpark)
+ - Kafka
+ - Spark Streaming
+ - Twitter Streaming API 
+
+---
+[Airflow Tennis Data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
+ - AWS S3, EC2, RDS
+ - Airlofw
+ - Papermill
+ - Jupyter Notebook
  - Pandas
- - Matplotlib
- - AWS, EC2, S3, RDS
- - MySql, PostgreSQL
----
-[Python Black Jack Project](https://github.com/Preeti0118/PythonFundamentals.Labs.BlackJack)
- - Object Oriented Programming
- - Multiple Classes
- - Class Inheritance
- - Unit Test TDD Environment
----
-[DataGrip Pokemon SQL Project](https://github.com/Preeti0118/DataGrip.PokemonSqlLab)
+ - PostgreSQL
  - MySQL
+ - Sqlalchemy
+ 
+ 
+
+---
+[Black Jack](https://github.com/Preeti0118/PythonFundamentals.Labs.BlackJack)
+ - Object oriented program
+ - Classes
+ - Inheritance
+ - Unit tests
+
 ---
 
