@@ -1,42 +1,45 @@
 ## Welcome to Preeti Sehgal's Portfolio
+wordcloud (1).jpg---
+
+[Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
+ - Twitter API
+ - yfinance API
+ - News API
+ - Spark
+ - Airflow
+ - Papermill
+ - Jupyter Notebook
+ - Pandas
+ - NLTK
+ - Bookeh
+ - MySql
+ 
 ---
-[Sentiment and Correlation Stock](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
+[Kafka Spark Twitter](https://github.com/Preeti0118/TwitterKafkaSpark)
+ - Kafka
+ - Spark Streaming
+ - Twitter Streaming API 
 
 ---
-[Airflow Tennis data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
+[Airflow Tennis Data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
+ - AWS S3, EC2, RDS
+ - Airlofw
+ - Papermill
+ - Jupyter Notebook
+ - Pandas
+ - PostgreSQL
+ - MySQL
+ - Sqlalchemy
+ 
+ 
+
+---
+[Black Jack](https://github.com/Preeti0118/PythonFundamentals.Labs.BlackJack)
+ - Object oriented program
+ - Classes
+ - Inheritance
+ - Unit tests
 
 ---
 
 
-
-You can use the [editor on GitHub](https://github.com/Preeti0118/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Sentiment Correlation Stock](https://github.com/Preeti0118/Sentiment_Correlation_Stock) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Preeti0118/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
