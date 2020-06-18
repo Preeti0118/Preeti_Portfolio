@@ -1,5 +1,7 @@
 ## Welcome to Preeti Sehgal's Portfolio
 
+![](https://github.com/Preeti0118/Preeti_Portfolio/blob/master/Screen%20Shot%202020-06-16%20at%2011.02.39%20PM.png)
+
 [Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
  - Twitter API
  - yfinance API
@@ -40,4 +42,3 @@
  - Unit tests
 
 ---
-
