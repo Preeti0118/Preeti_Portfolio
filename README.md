@@ -30,6 +30,7 @@ This project demostrates the use of KAFKA and SPARK STREAMING technologies for s
 ---
 [Airflow Tennis Data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
 This project demonstrates the use of various technologies, like Airflow, DAGs, Papermill, Pandas, Jupyter Notebook, MySql or postgreSQL db, and AWS S3, to build an end to end data pipeline for extracting data using API and then processing the data in the pipeline by using Papermill and Jupyter notebook. The final output is uploaded on AWS S3 bucket. 
+![](https://github.com/Preeti0118/Preeti_Portfolio/blob/master/images/Tennis_Airflow_Dags_image.png)
 
  - AWS S3, EC2, RDS
  - Airlofw
