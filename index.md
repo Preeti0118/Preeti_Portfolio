@@ -1,6 +1,6 @@
 ## Welcome to Preeti Sehgal's Portfolio
 
-![](/Screen%20Shot%202020-06-16%20at%2011.02.39%20PM.png)
+![](/images/wordcloud_portfolio2.png)
 
 [Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
 This project uses Apache airflow to run a data pipeline that fetches tweet count data from Twitter API, and Headline totals from News API. It also uses spark to get daily price changes (opening and closing daily) using Yahoo Finance API.
