@@ -1,6 +1,6 @@
 ## Welcome to Preeti Sehgal's Portfolio
 
-![](/Screen%20Shot%202020-06-16%20at%2011.02.39%20PM.png)
+![](/images/wordcloud_portfolio2.png)
 
 [Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
 This project uses Apache airflow to run a data pipeline that fetches tweet count data from Twitter API, and Headline totals from News API. It also uses spark to get daily price changes (opening and closing daily) using Yahoo Finance API.
@@ -29,8 +29,8 @@ This project demostrates the use of KAFKA and SPARK STREAMING technologies for s
 
 ---
 [Airflow Tennis Data Pipeline](https://github.com/Preeti0118/Tennis_Data_Pipeline_Airflow_Project)
-This project demonstrates the use of various technologies, like Airflow, DAGs, Papermill, Pandas, Jupyter Notebook, MySql or postgreSQL db, and AWS S3, to build an end to end data pipeline for extracting data using API and then processing the data in the pipeline by using Papermill and Jupyter notebook. The final output is uploaded on AWS S3 bucket. 
-![](https://github.com/Preeti0118/Preeti_Portfolio/blob/master/images/Tennis_Airflow_Dags_image.png)
+This project demonstrates the use of various technologies, like Airflow, DAGs, Papermill, Pandas, Jupyter Notebook, MySql or postgreSQL db, and AWS EC2, RDS, S3, to build an end to end data pipeline for extracting data using REST API and then processing the data in the pipeline by using Papermill and Jupyter notebook. The final output is uploaded on AWS S3 bucket. 
+![](/images/Tennis_Airflow_dags_image2.png)
 
  - AWS S3, EC2, RDS
  - Airlofw
