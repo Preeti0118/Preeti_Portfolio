@@ -5,7 +5,7 @@
 [Sentiment Correlation with Stock Price](https://github.com/Preeti0118/Sentiment_Correlation_Stock)
 This project uses Apache airflow to run a data pipeline that fetches tweet count data from Twitter API, and Headline totals from News API. It also uses spark to get daily price changes (opening and closing daily) using Yahoo Finance API.
 The data is then analysed to find the sentiments and its correlation with price movement of the stock.
-![](https://github.com/Preeti0118/Preeti_Portfolio/blob/master/images/Sentiment_project_image.png)
+![](/images/Sentiment_project_image.png)
 
  - Twitter API
  - yfinance API
