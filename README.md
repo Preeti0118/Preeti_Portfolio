@@ -22,6 +22,7 @@ The data is then analysed to find the sentiments and its correlation with price 
 ---
 [Kafka Spark Twitter](https://github.com/Preeti0118/TwitterKafkaSpark)
 This project demostrates the use of KAFKA and SPARK STREAMING technologies for sourcing live tweets using Twitter API and processing the same in Spark.
+![](/images/Kafka_Twitter_Spark_Streaming.png)
 
  - Kafka
  - Spark Streaming
