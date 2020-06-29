@@ -47,6 +47,7 @@ This project demonstrates the use of various technologies, like Airflow, DAGs, P
 ---
 [Black Jack](https://github.com/Preeti0118/PythonFundamentals.Labs.BlackJack)
 Python code, using object orinented programming, to play black jack game. It includes unit test scripts for each method used in the code
+
 ![](/images/BlackjackImage.jpeg)
 
  - Object oriented program
