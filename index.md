@@ -53,5 +53,9 @@ Python code, using object orinented programming, to play black jack game. It inc
  - Unit tests
 
 ---
+[Wine Quality Analysis with R](https://github.com/Preeti0118/Wine_Quality_Analysis_with_R)
+In this project we will evaluate data of different wine qualities ranging from 3 - 8 where 3 is the worst quality wine and 8 is the best quality wine in the given dataset. We will explore the data and try to find if there is any coorelation of wine quality with any other factor like, alcohol content, ph value, density, acitidy etc.
+![](/images/Wine_Data_3D_Scatter_Plot.png)
 
+---
 
