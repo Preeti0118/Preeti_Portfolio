@@ -63,6 +63,7 @@ In this project we will evaluate data of different wine qualities ranging from 3
 ---
 [Scala Research Project](https://github.com/Preeti0118/Scala_Research_Project)
 This is a research project on scala to review and learn the basisc of Scala. This also has links to documentation on scala that explain Functional Programming and Object Oriented Programming aspects of Scala.
+
 ![](/images/scala-spiral.png)
 
 ---
