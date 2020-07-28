@@ -61,8 +61,8 @@ In this project we will evaluate data of different wine qualities ranging from 3
 ![](/images/Wine_Data_3D_Scatter_Plot.png)
 
 ---
-[Scala Research Project](https://github.com/Preeti0118/Scala_Research_Project)
-This is a research project on scala to review and learn the basisc of Scala. This also has links to documentation on scala that explain Functional Programming and Object Oriented Programming aspects of Scala.
+[Scala Redis PowerBI Research Project](https://github.com/Preeti0118/ResearchProject_Scala_Redis_PowerBI)
+This is a research project on scala to review and learn the basics of Scala, Redis database and visualization tool PowerBI
 
 ![](/images/scala-spiral.png)
 
