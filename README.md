@@ -64,6 +64,6 @@ In this project we will evaluate data of different wine qualities ranging from 3
 [Scala Redis PowerBI Research Project](https://github.com/Preeti0118/ResearchProject_Scala_Redis_PowerBI)
 This is a research project on scala to review and learn the basics of Scala, Redis database and visualization tool PowerBI
 
-![](/images/scala-spiral.png)
+![](/images/scala_redis_powerbi.png)
 
 ---
